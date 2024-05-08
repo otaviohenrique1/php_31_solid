@@ -1,0 +1,15 @@
+{
+    "name": "otavio/alura",
+    "autoload": {
+        "psr-4": {
+            "Alura\\Solid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Otavio Henrique de Lima e Silva",
+            "email": "otaviohlsilva@gmail.com"
+        }
+    ],
+    "require": {}
+}

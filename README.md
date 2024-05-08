@@ -1,6 +1,6 @@
-# php_30_bdd_behat
+# php_31_solid
 
-Projeto do curso "PHP e Behavior Driven Development BDD com Behat" da Alura
+Projeto do curso "SOLID com PHP: princípios da programação orientada a objetos" da Alura
 
 ## Links
 
